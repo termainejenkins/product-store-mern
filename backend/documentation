@@ -1,0 +1,1 @@
+Environment variables and .env files are for managing configuration settings and sensitive information in a secure and flexible way. They help keep the codebase clean and make it easier to manage different environments.
